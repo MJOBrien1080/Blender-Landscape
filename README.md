@@ -1,9 +1,7 @@
 # Blender-Landscape
 A landscape representation using perlin noise and colored Z axis levels to portray a mountainous lake area.
 <img width="1884" height="1267" alt="image" src="https://github.com/user-attachments/assets/b3d0e984-cf99-495d-ac1d-54b520a1ec5b" />
-• Description — What the project does and why you built it
+This project was used to manipulate and experiment with colors, depending on the elevation of the environment. Setting a water level for the lakes and color scale for varying Z heights.
 Python code written in Blender Python API script
-• How to Run / Installation Instructions — Step-by-step setup guide
-• Screenshots or Demo (if applicable) — Images or a link to a live demo
-• What I Learned — A brief reflection on skills gained or challenges overcome
-• Future Improvements (optional) — Ideas for features you'd like to add
+Able to be plugged and played into the scripting tab of any Blender project.
+I learned that the color mapping and assignment through Blender scripting is very in depth and takes some getting used to.
